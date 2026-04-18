@@ -1,0 +1,5 @@
+Model,Test_RMSE
+XGBoost,0.13984
+Linear Regression,0.16343
+Decision Tree,0.19878
+Deep Learning,0.23998
