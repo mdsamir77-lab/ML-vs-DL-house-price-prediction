@@ -1,0 +1,8 @@
+Dataset Source:
+Kaggle - House Prices: Advanced Regression Techniques
+
+Link:
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
+
+Note:
+Due to file size limitations, dataset is not uploaded directly in this repository.
