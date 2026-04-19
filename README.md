@@ -124,5 +124,5 @@ ML-vs-DL-house-price-prediction/
 
 ## 👨‍💻 Author
 
-**Samir**
-Learning AI & Machine Learning 🚀
+**Samir**  
+AI & Machine Learning Enthusiast 🚀
